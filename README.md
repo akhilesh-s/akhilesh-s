@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-CSE UG @JUIT, interested in Web and Blockchain Development 
-
+Currently enginerring at @Media.net, interested in Web Dev
